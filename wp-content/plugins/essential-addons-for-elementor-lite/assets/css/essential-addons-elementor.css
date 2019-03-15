@@ -3293,7 +3293,7 @@ span.eael-testimonial-quote {
 }
 
 .eael-call-to-action.bg-img {
-  background-image: url("/https://spyderwebdesignz.github.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/img/bg.jpg");
+  background-image: url("http://localhost/https:/spyderwebdesignz.github.io/wp-content/plugins/essential-addons-for-elementor-lite/assets/img/bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
